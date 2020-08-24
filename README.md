@@ -1,0 +1,2 @@
+# assets
+Assets of project
